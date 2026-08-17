@@ -1,0 +1,6 @@
+{
+  "name": "VoiceNotes AI",
+  "description": "Convert voice notes, Hindi/Hinglish audio, and interviews into structured executive notes, action items, D3 mind maps, AI roasts, and decision matrices.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
